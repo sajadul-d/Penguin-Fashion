@@ -1,0 +1,87 @@
+
+.header-container{
+   background-color:#fceae8;
+}
+#color{
+    color: rgb(255, 0, 136);
+}
+#bold{
+    font-weight: bold;
+}
+.text{
+    font-weight:bold;
+    font-size:60px;
+}
+.main-margin{
+    margin-top: 140px;
+}
+.woman-jacket img{
+    width: 250px;
+    height: 300px;
+
+
+}
+.head-color{
+    color:rgb(255, 175, 71);
+    margin-right: 30px;
+ 
+}
+.column1{
+    border: 0px;
+    background-color:white;
+}
+.image-backgroundA{
+    background-color:gray;
+}
+
+.logo-design img{
+    width: 100px;
+    margin-right: 20px;
+    padding: 5px;
+}
+.remove{
+    border: 0px;
+
+}
+
+.footer-informatio{
+    text-align:center;
+    color:green;
+    margin: 10px;
+    padding: 10px;
+}
+#copywrite{
+    text-align: center;
+}
+
+.contact-container{
+    background-color:rgb(105, 105, 105);
+}
+
+.inner-text{
+     
+    color: blue;
+    font-weight: 700px;
+    background-color: cornsilk;
+}
+
+.footer-container{
+    background-color:rgb(105, 105, 105);
+}
+
+.circle2{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: white;
+    color: #00bd84;
+    font-size: 40px;
+    display: inline-block;
+    text-align: center ;   
+    
+}
+.circle2:hover{
+    background-color: rgb(145, 34, 117);
+
+}
+
